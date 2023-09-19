@@ -1,0 +1,555 @@
+Id,SAT,GPA,ACT,Gender,Ethnicity,Class,FirstGen,Admission,Admitted
+20012,1420,4.49,33,Female,White Non-Hispanic,2022,No,,0
+20011,1430,4.29,31,Male,White Non-Hispanic,2019,No,Regular Decision,0
+20010,1450,3.95,30,Male,White Non-Hispanic,2017,,Early Decision,0
+20009,1350,3.9,33,Female,Prefer Not to Share,2018,Yes,,0
+20008,1360,4.41,30,Female,White Non-Hispanic,2017,,Regular Decision,0
+20007,1330,3.73,33,Male,White Non-Hispanic,2020,No,,0
+20006,1360,4.63,32,Male,White Non-Hispanic,2018,,Early Action,0
+20005,1440,3.65,30,Female,,2014,,Regular Decision,0
+20004,1380,4.1,30,Male,Hispanic,2019,Yes,,0
+20003,1430,4.27,33,Male,Black / African American,</sp,,Early Action,0
+20002,1450,4.19,30,Male,Black / African American,2014,,Regular Decision,0
+20001,1380,3.81,30,Male,Black / African American,2014,,Regular Decision,0
+20000,1370,3.44,31,Female,"Black / African American, Hispanic",2018,,Early Action,0
+19999,1450,3.83,31,Male,Black / African American,2013,No,,0
+19998,1420,3.95,32,Female,Hispanic,2016,,Regular Decision,0
+19997,1430,3.55,30,Female,White Non-Hispanic,2019,,Regular Decision,0
+19996,1320,4.95,32,Male,Asian,2016,,"Regular Decision, Transfer",0
+19995,1410,3.12,33,Female,White Non-Hispanic,2018,,Regular Decision,0
+19994,1400,3.66,33,Female,,2017,,Regular Decision,0
+19993,1440,3.86,33,Female,White Non-Hispanic,2017,,Early Action,0
+19992,1380,4.78,31,Female,Hispanic,</sp,,,0
+19991,1410,4.78,30,Female,Black / African American,2018,,,0
+19990,1360,3.15,32,Male,White Non-Hispanic,2016,,Early Action,0
+19989,1380,4.33,33,Female,"Asian, Native American",2018,,Regular Decision,0
+19988,1410,4.59,33,Male,Native Hawaiian / Pacific Islander,2019,,Regular Decision,0
+19987,1430,4.62,31,Male,White Non-Hispanic,2017,,Early Action,0
+19986,1380,3.16,32,Male,Hispanic,2019,Yes,,0
+19985,1390,4.85,31,Male,Black / African American,</sp,,Regular Decision,0
+19984,1450,4.81,31,Male,Asian,2017,,Regular Decision,0
+19983,1340,3.86,32,Male,Black / African American,</sp,,Early Action,0
+19982,1400,3.76,30,Male,"Asian, White Non-Hispanic",2018,,Early Action,0
+19981,1450,3.64,31,Male,Black / African American,</sp,,Regular Decision,0
+19980,1370,4.43,32,Male,Black / African American,2014,,Regular Decision,0
+19979,1420,4.44,32,Female,White Non-Hispanic,2019,No,Regular Decision,0
+19978,1330,4.79,33,Male,Hispanic,2022,Yes,Regular Decision,0
+19977,1390,4.79,30,Male,Asian,2019,Yes,Early Action,0
+19976,1410,4.13,33,Female,"Hispanic, White Non-Hispanic",2020,Yes,Regular Decision,0
+19975,1380,3.05,32,Female,Asian,2020,No,Early Action,0
+19974,1310,3.64,30,Male,Hispanic,2019,No,"Regular Decision, Early Decision",0
+19973,1360,3,30,Female,White Non-Hispanic,2021,No,,0
+19972,1380,3.27,31,Female,White Non-Hispanic,2019,,Early Action,0
+19971,1330,3.18,32,Female,"Asian, Black / African American",2019,,Regular Decision,0
+19970,1440,3.8,31,Male,Hispanic,2019,Yes,Early Action,0
+19969,1350,3.57,30,Male,White Non-Hispanic,2017,,Regular Decision,0
+19968,1300,4.12,32,Male,Hispanic,2019,,Regular Decision,0
+19967,1360,5,33,Female,Hispanic,2018,Yes,,0
+19966,1450,4.81,30,Male,"Hispanic, White Non-Hispanic",2019,Yes,Regular Decision,0
+19965,1440,4.16,33,Female,Black / African American,2017,,Regular Decision,0
+19964,1400,3.44,33,Male,White Non-Hispanic,2017,Yes,,0
+19963,1310,4.2,31,Female,Hispanic,2016,,Regular Decision,0
+19962,1340,3.58,32,Male,Asian,2019,,Regular Decision,0
+19961,1360,4.28,32,Female,Asian,2019,,Regular Decision,0
+19960,1350,4.88,32,Female,White Non-Hispanic,2018,,Regular Decision,0
+19959,1430,3.74,33,Male,Hispanic,2018,Yes,,0
+19958,1300,4.59,33,Male,Asian,2018,,Regular Decision,0
+19957,1390,3.55,33,Male,White Non-Hispanic,2018,,"Early Action, Recruited for Sport",0
+19956,1440,3.9,33,Female,Hispanic,2017,,Regular Decision,0
+19955,1360,3.16,30,Male,,2019,,Early Action,0
+19954,1350,3.45,32,Male,"Black / African American, White Non-Hispanic",2019,,Regular Decision,0
+19953,1400,4.68,31,Female,Asian,2020,,Regular Decision,0
+19952,1360,3.81,30,Female,"Asian, Native Hawaiian / Pacific Islander, White Non-Hispanic",2010,,Regular Decision,0
+19951,1410,3.01,31,Male,White Non-Hispanic,2018,,Early Action,0
+19950,1450,4.23,32,Female,"Black / African American, Hispanic",2017,,Early Action,0
+19949,1330,3.12,33,Female,White Non-Hispanic,2017,,Early Action,0
+19948,1370,4.07,32,Male,Hispanic,2019,,Regular Decision,0
+19947,1370,4.69,31,Female,Asian,2019,No,"Early Action, Recruited for Sport",0
+19946,1330,3.12,32,Female,"Black / African American, Hispanic",2019,,Early Action,0
+19945,1350,3.46,30,Female,White Non-Hispanic,2019,,Regular Decision,0
+19944,1370,4.08,32,Female,Black / African American,2019,,Regular Decision,0
+19943,1340,3.76,30,Female,Black / African American,2020,Yes,Early Action,0
+19942,1440,4.17,32,Female,White Non-Hispanic,2015,,Regular Decision,0
+19941,1330,3.29,33,Female,White Non-Hispanic,2017,,Regular Decision,0
+19940,1410,4.96,31,Female,Black / African American,2019,,Early Action,0
+19939,1340,3.29,31,Male,,2018,,Regular Decision,0
+19938,1440,4.52,32,Female,White Non-Hispanic,2017,,"Regular Decision, Recruited for Sport",0
+19937,1420,4.73,32,Male,"Hispanic, White Non-Hispanic",2019,,,0
+19936,1380,3.78,32,Male,White Non-Hispanic,2016,,Early Decision,0
+19935,1310,3.25,33,Male,Hispanic,</sp,,Regular Decision,0
+19934,1320,3.75,31,Male,Asian,2016,,Regular Decision,0
+19933,1450,3.47,33,Female,Asian,2018,,,0
+19932,1440,4.28,32,Female,White Non-Hispanic,2017,,Regular Decision,0
+19931,1390,3.84,30,Female,White Non-Hispanic,2020,No,,0
+19930,1410,3.47,32,Female,White Non-Hispanic,2020,Yes,,0
+19929,1440,4.9,32,Male,Asian,2019,Yes,Early Action,0
+19928,1400,4.74,30,Female,Asian,2022,No,,0
+19927,1420,4.23,30,Female,Black / African American,2020,No,Regular Decision,0
+19926,1420,4.06,30,Male,Hispanic,2017,,Regular Decision,0
+19925,1330,3.82,33,Female,White Non-Hispanic,2021,No,,0
+19924,1300,3.5,31,Female,White Non-Hispanic,2017,No,Early Action,0
+19923,1440,4.23,31,Male,Asian,2016,,Early Action,0
+19922,1330,4.45,30,Male,Asian,2017,,Regular Decision,0
+19921,1320,4.74,33,Female,White Non-Hispanic,2019,,Regular Decision,0
+19920,1420,3.4,31,Female,White Non-Hispanic,2019,,Regular Decision,0
+19919,1320,4.8,33,Male,White Non-Hispanic,2017,,Regular Decision,0
+19918,1320,3.94,31,Male,White Non-Hispanic,2018,No,Regular Decision,0
+19917,1350,4.71,33,Male,Hispanic,2019,,Regular Decision,0
+19916,1310,4.7,32,Male,Hispanic,2017,,Regular Decision,0
+19915,1420,3.53,31,Female,Hispanic,2017,,Early Action,0
+19914,1440,4.52,31,Male,White Non-Hispanic,2018,,"Early Action, Recruited for Sport",0
+19913,1310,3.76,32,Female,Hispanic,2016,,Early Action,0
+212932,,4,32,Female,White Non-Hispanic,2022,No,,1
+104114,1380,3.8,30,Male,White Non-Hispanic,2019,No,Regular Decision,1
+8515,1300,4.2,32,Male,White Non-Hispanic,2017,,Early Decision,1
+233289,,4,,Female,Prefer Not to Share,2018,Yes,,1
+87493,1360,3.86,,Female,White Non-Hispanic,2017,,Regular Decision,1
+460962,1390,3.7,32,Male,White Non-Hispanic,2020,No,,1
+46619,1370,4,33,Male,White Non-Hispanic,2018,,Early Action,1
+8871,1360,,34,Female,,2014,,Regular Decision,1
+459416,,4,,Male,Hispanic,2019,Yes,,1
+53440,1400,4.5,33,Male,Black / African American,</sp,,Early Action,1
+10151,1310,,,Male,Black / African American,2014,,Regular Decision,1
+10147,1400,,29,Male,Black / African American,2014,,Regular Decision,1
+21366,1450,3.85,33,Female,"Black / African American, Hispanic",2018,,Early Action,1
+257564,1440,4.5,35,Male,Black / African American,2013,No,,1
+193638,1460,4,,Female,Hispanic,2016,,Regular Decision,1
+57532,1430,4.5,33,Female,White Non-Hispanic,2019,,Regular Decision,1
+54080,1440,4.2,31,Male,Asian,2016,,"Regular Decision, Transfer",1
+30122,1460,4.5,33,Female,White Non-Hispanic,2018,,Regular Decision,1
+17857,1410,4.4,32,Female,,2017,,Regular Decision,1
+65808,1450,,32,Female,White Non-Hispanic,2017,,Early Action,1
+18238,1410,,32,Female,Hispanic,</sp,,,1
+45976,1430,,35,Female,Black / African American,2018,,,1
+26301,1410,3.74,33,Male,White Non-Hispanic,2016,,Early Action,1
+17871,1430,4.5,31,Female,"Asian, Native American",2018,,Regular Decision,1
+167581,1450,4.5,34,Male,Native Hawaiian / Pacific Islander,2019,,Regular Decision,1
+8568,1410,4.4,,Male,White Non-Hispanic,2017,,Early Action,1
+459416,,4,,Male,Hispanic,2019,Yes,,1
+10667,1430,3.8,31,Male,Black / African American,</sp,,Regular Decision,1
+8514,1410,4,32,Male,Asian,2017,,Regular Decision,1
+53440,1400,4.5,33,Male,Black / African American,</sp,,Early Action,1
+18098,1450,4,34,Male,"Asian, White Non-Hispanic",2018,,Early Action,1
+10674,1410,4,,Male,Black / African American,</sp,,Regular Decision,1
+10147,1400,,29,Male,Black / African American,2014,,Regular Decision,1
+88258,1480,4.5,34,Female,White Non-Hispanic,2019,No,Regular Decision,1
+55851,1470,4.95,,Male,Hispanic,2022,Yes,Regular Decision,1
+42366,1500,4,31,Male,Asian,2019,Yes,Early Action,1
+210444,1480,4.5,35,Female,"Hispanic, White Non-Hispanic",2020,Yes,Regular Decision,1
+192392,1490,4.72,35,Female,Asian,2020,No,Early Action,1
+70226,1480,3.75,,Male,Hispanic,2019,No,"Regular Decision, Early Decision",1
+333705,,4.3,,Female,White Non-Hispanic,2021,No,,1
+50789,1490,4.5,34,Female,White Non-Hispanic,2019,,Early Action,1
+50296,1470,3.8,,Female,"Asian, Black / African American",2019,,Regular Decision,1
+167593,1490,4.5,34,Male,Hispanic,2019,Yes,Early Action,1
+66888,1500,4.5,36,Male,White Non-Hispanic,2017,,Regular Decision,1
+55826,1500,4.5,34,Male,Hispanic,2019,,Regular Decision,1
+54451,1480,3.9,,Female,Hispanic,2018,Yes,,1
+54446,1490,4.48,34,Male,"Hispanic, White Non-Hispanic",2019,Yes,Regular Decision,1
+21257,1470,3.6,34,Female,Black / African American,2017,,Regular Decision,1
+337461,1490,4.5,36,Male,White Non-Hispanic,2017,Yes,,1
+193638,1460,4,,Female,Hispanic,2016,,Regular Decision,1
+79305,1480,3.98,34,Male,Asian,2019,,Regular Decision,1
+67384,1480,4.5,35,Female,Asian,2019,,Regular Decision,1
+30122,1460,4.5,33,Female,White Non-Hispanic,2018,,Regular Decision,1
+21816,1470,4.34,32,Male,Hispanic,2018,Yes,,1
+21195,1480,4.4,,Male,Asian,2018,,Regular Decision,1
+8627,1500,3.4,,Male,White Non-Hispanic,2018,,"Early Action, Recruited for Sport",1
+66365,1470,4.44,30,Female,Hispanic,2017,,Regular Decision,1
+65559,1500,4,,Male,,2019,,Early Action,1
+57381,1470,4.5,33,Male,"Black / African American, White Non-Hispanic",2019,,Regular Decision,1
+225574,1500,4.5,33,Female,Asian,2020,,Regular Decision,1
+65776,1470,3.95,,Female,"Asian, Native Hawaiian / Pacific Islander, White Non-Hispanic",2010,,Regular Decision,1
+21347,1500,3.66,,Male,White Non-Hispanic,2018,,Early Action,1
+9942,1480,4,33,Female,"Black / African American, Hispanic",2017,,Early Action,1
+8521,1470,4.2,34,Female,White Non-Hispanic,2017,,Early Action,1
+166307,1470,4.2,28,Male,Hispanic,2019,,Regular Decision,1
+56869,1500,4,36,Female,Asian,2019,No,"Early Action, Recruited for Sport",1
+55929,1480,4.3,,Female,"Black / African American, Hispanic",2019,,Early Action,1
+56250,1490,,32,Female,White Non-Hispanic,2019,,Regular Decision,1
+55967,1470,4.43,,Female,Black / African American,2019,,Regular Decision,1
+47945,1480,3.83,,Female,Black / African American,2020,Yes,Early Action,1
+26896,1480,4.3,31,Female,White Non-Hispanic,2015,,Regular Decision,1
+7929,1470,4.2,,Female,White Non-Hispanic,2017,,Regular Decision,1
+56467,1470,4.5,,Female,Black / African American,2019,,Early Action,1
+17518,1490,4.4,35,Male,,2018,,Regular Decision,1
+9017,1480,4.4,34,Female,White Non-Hispanic,2017,,"Regular Decision, Recruited for Sport",1
+61425,1500,,33,Male,"Hispanic, White Non-Hispanic",2019,,,1
+227004,1490,,,Male,White Non-Hispanic,2016,,Early Decision,1
+9104,1500,4.2,32,Male,Hispanic,</sp,,Regular Decision,1
+9041,1490,,,Male,Asian,2016,,Regular Decision,1
+21907,1500,,29,Female,Asian,2018,,,1
+21231,1500,4.4,,Female,White Non-Hispanic,2017,,Regular Decision,1
+373581,1510,4,31,Female,White Non-Hispanic,2020,No,,1
+226559,1520,4.3,33,Female,White Non-Hispanic,2020,Yes,,1
+42366,1500,4,31,Male,Asian,2019,Yes,Early Action,1
+424264,,3.75,,Female,Asian,2022,No,,1
+226386,1510,4.81,,Female,Black / African American,2020,No,Regular Decision,1
+8437,1510,4.4,36,Male,Hispanic,2017,,Regular Decision,1
+333705,,4.3,,Female,White Non-Hispanic,2021,No,,1
+12504,1520,5,35,Female,White Non-Hispanic,2017,No,Early Action,1
+11431,1510,4,,Male,Asian,2016,,Early Action,1
+8426,1520,4.4,,Male,Asian,2017,,Regular Decision,1
+192103,1520,4.3,,Female,White Non-Hispanic,2019,,Regular Decision,1
+67358,1510,4,35,Female,White Non-Hispanic,2019,,Regular Decision,1
+66888,1500,4.5,36,Male,White Non-Hispanic,2017,,Regular Decision,1
+66631,1510,4.5,35,Male,White Non-Hispanic,2018,No,Regular Decision,1
+55826,1500,4.5,34,Male,Hispanic,2019,,Regular Decision,1
+8574,1520,4.4,34,Male,Hispanic,2017,,Regular Decision,1
+8540,1520,3.99,35,Female,Hispanic,2017,,Early Action,1
+8627,1500,3.4,,Male,White Non-Hispanic,2018,,"Early Action, Recruited for Sport",1
+8293,1510,4.4,32,Female,Hispanic,2016,,Early Action,1
+143497,1520,,35,Male,White Non-Hispanic,</sp,,,1
+65559,1500,4,,Male,,2019,,Early Action,1
+39229,1520,4.5,33,Female,Asian,2019,,Regular Decision,1
+21274,1510,4.4,35,Female,White Non-Hispanic,2018,,Regular Decision,1
+8516,1520,4,,Male,Asian,2017,,Early Action,1
+8509,1510,4,34,Male,White Non-Hispanic,2017,,Regular Decision,1
+460422,1520,4.22,,Male,Hispanic,2019,Yes,,1
+227247,1520,3.9,,Female,Hispanic,2019,,Early Action,1
+225574,1500,4.5,33,Female,Asian,2020,,Regular Decision,1
+64900,1520,4.48,35,Male,Asian,2013,,Regular Decision,1
+64884,1520,4,34,Female,White Non-Hispanic,2017,,Regular Decision,1
+21347,1500,3.66,,Male,White Non-Hispanic,2018,,Early Action,1
+67365,1520,4,34,Male,White Non-Hispanic,2019,,Early Action,1
+56869,1500,4,36,Female,Asian,2019,No,"Early Action, Recruited for Sport",1
+9606,1510,4,,Female,Black / African American,2016,,Regular Decision,1
+108232,1520,4,,Male,White Non-Hispanic,2019,,Early Action,1
+8528,1510,4.4,,Male,White Non-Hispanic,</sp,,Regular Decision,1
+61425,1500,,33,Male,"Hispanic, White Non-Hispanic",2019,,,1
+18410,1510,4.4,34,Male,"Native American, Prefer Not to Share",2018,,Early Action,1
+9046,1520,4,34,Male,White Non-Hispanic,2016,,Early Action,1
+317094,1510,3.8,36,Male,Asian,2021,Yes,,1
+21217,1520,4.4,35,Female,,2018,,Early Action,1
+10672,1520,4,,Male,"Asian, White Non-Hispanic",</sp,,Regular Decision,1
+9104,1500,4.2,32,Male,Hispanic,</sp,,Regular Decision,1
+8522,1520,4,35,Male,White Non-Hispanic,2017,,Regular Decision,1
+24788,1510,4,,Female,Hispanic,2016,,Regular Decision,1
+22352,1520,4.5,34,Male,"Asian, White Non-Hispanic",2016,,Regular Decision,1
+21924,1520,3.94,34,Female,White Non-Hispanic,2018,,Early Action,1
+21907,1500,,29,Female,Asian,2018,,,1
+21231,1500,4.4,,Female,White Non-Hispanic,2017,,Regular Decision,1
+226559,1520,4.3,33,Female,White Non-Hispanic,2020,Yes,,1
+185027,,4.72,34,Male,Black / African American,2022,,,1
+123173,1530,4.15,35,Female,White Non-Hispanic,2020,No,Regular Decision,1
+68551,1530,4,32,Female,White Non-Hispanic,2018,Yes,Regular Decision,1
+12504,1520,5,35,Female,White Non-Hispanic,2017,No,Early Action,1
+8535,1530,4.2,36,Male,Asian,2017,,Regular Decision,1
+8426,1520,4.4,,Male,Asian,2017,,Regular Decision,1
+8425,1530,4.4,,Male,White Non-Hispanic,2017,,Early Action,1
+192103,1520,4.3,,Female,White Non-Hispanic,2019,,Regular Decision,1
+55783,1530,4.43,33,Male,Hispanic,2020,,Regular Decision,1
+8574,1520,4.4,34,Male,Hispanic,2017,,Regular Decision,1
+8540,1520,3.99,35,Female,Hispanic,2017,,Early Action,1
+43968,1530,4.5,35,Male,White Non-Hispanic,2018,,Regular Decision,1
+143497,1520,,35,Male,White Non-Hispanic,</sp,,,1
+39229,1520,4.5,33,Female,Asian,2019,,Regular Decision,1
+8516,1520,4,,Male,Asian,2017,,Early Action,1
+460422,1520,4.22,,Male,Hispanic,2019,Yes,,1
+227247,1520,3.9,,Female,Hispanic,2019,,Early Action,1
+64900,1520,4.48,35,Male,Asian,2013,,Regular Decision,1
+64884,1520,4,34,Female,White Non-Hispanic,2017,,Regular Decision,1
+67365,1520,4,34,Male,White Non-Hispanic,2019,,Early Action,1
+108232,1520,4,,Male,White Non-Hispanic,2019,,Early Action,1
+52234,1530,4.29,,Female,"Black / African American, White Non-Hispanic",2019,,"Regular Decision, Early Action",1
+17200,1530,4.2,33,Female,White Non-Hispanic,2016,,Regular Decision,1
+56145,1530,4,,Female,Asian,2019,,Early Action,1
+17856,1530,4,,Male,Asian,2016,,Regular Decision,1
+9046,1520,4,34,Male,White Non-Hispanic,2016,,Early Action,1
+21217,1520,4.4,35,Female,,2018,,Early Action,1
+10672,1520,4,,Male,"Asian, White Non-Hispanic",</sp,,Regular Decision,1
+8522,1520,4,35,Male,White Non-Hispanic,2017,,Regular Decision,1
+43400,1530,4.3,,Female,"Hispanic, White Non-Hispanic",2016,,Regular Decision,1
+26303,1530,,,,,</sp,,,1
+22352,1520,4.5,34,Male,"Asian, White Non-Hispanic",2016,,Regular Decision,1
+21924,1520,3.94,34,Female,White Non-Hispanic,2018,,Early Action,1
+17800,1530,4,,Male,Hispanic,2018,,Early Action,1
+257451,1540,4.5,,Male,"Asian, White Non-Hispanic",2020,No,,1
+185027,,4.72,34,Male,Black / African American,2022,,,1
+123173,1530,4.15,35,Female,White Non-Hispanic,2020,No,Regular Decision,1
+68551,1530,4,32,Female,White Non-Hispanic,2018,Yes,Regular Decision,1
+8535,1530,4.2,36,Male,Asian,2017,,Regular Decision,1
+8425,1530,4.4,,Male,White Non-Hispanic,2017,,Early Action,1
+327810,1540,4.33,,Female,Asian,2020,Yes,,1
+55783,1530,4.43,33,Male,Hispanic,2020,,Regular Decision,1
+50997,1540,4.42,34,Female,White Non-Hispanic,2018,Yes,Regular Decision,1
+43968,1530,4.5,35,Male,White Non-Hispanic,2018,,Regular Decision,1
+216912,1540,4,34,Other,Asian,2020,,Regular Decision,1
+65829,1540,,,Male,White Non-Hispanic,2018,,"Regular Decision, Accepted From Waitlist",1
+8524,1540,,,Male,Hispanic,2017,,Early Action,1
+8539,1540,4.4,,Female,Asian,2018,,Regular Decision,1
+52234,1530,4.29,,Female,"Black / African American, White Non-Hispanic",2019,,"Regular Decision, Early Action",1
+19169,1540,4.4,,Male,Asian,2017,,Regular Decision,1
+17200,1530,4.2,33,Female,White Non-Hispanic,2016,,Regular Decision,1
+8561,1540,4.4,,Female,White Non-Hispanic,2017,,Early Action,1
+56145,1530,4,,Female,Asian,2019,,Early Action,1
+17856,1530,4,,Male,Asian,2016,,Regular Decision,1
+10646,1540,3.8,,Female,White Non-Hispanic,2014,,Regular Decision,1
+8592,1540,4,,Female,Hispanic,2017,,Early Action,1
+370332,,4.5,,Female,Asian,2022,No,,1
+8533,1540,4.4,,Male,White Non-Hispanic,2017,,Regular Decision,1
+43400,1530,4.3,,Female,"Hispanic, White Non-Hispanic",2016,,Regular Decision,1
+26303,1530,,,,,</sp,,,1
+17800,1530,4,,Male,Hispanic,2018,,Early Action,1
+8410,1540,4.3,,Female,Asian,2017,,Early Action,1
+257451,1540,4.5,,Male,"Asian, White Non-Hispanic",2020,No,,1
+229381,1550,4.5,,Male,Hispanic,2020,,Early Action,1
+15312,1550,4.4,34,Male,White Non-Hispanic,2016,No,Early Action,1
+8408,1550,4.38,,Male,Asian,2017,Yes,Regular Decision,1
+373580,1550,4.45,32,Male,White Non-Hispanic,2020,No,,1
+236103,1550,4.5,35,Male,White Non-Hispanic,2021,No,,1
+327810,1540,4.33,,Female,Asian,2020,Yes,,1
+50997,1540,4.42,34,Female,White Non-Hispanic,2018,Yes,Regular Decision,1
+17832,1550,4.41,36,Male,Asian,2018,,"Regular Decision, Early Decision",1
+208675,1550,4.1,,Male,White Non-Hispanic,2020,Yes,Regular Decision,1
+174173,1550,3.91,,Female,White Non-Hispanic,2014,Yes,Regular Decision,1
+21186,1550,3.94,34,Female,White Non-Hispanic,2017,,Early Action,1
+9255,1550,4.4,35,Male,Hispanic,2018,,Regular Decision,1
+216912,1540,4,34,Other,Asian,2020,,Regular Decision,1
+69229,1550,4.3,35,Male,Asian,2019,,Regular Decision,1
+65829,1540,,,Male,White Non-Hispanic,2018,,"Regular Decision, Accepted From Waitlist",1
+17199,1550,3.8,,Female,White Non-Hispanic,2016,,Accepted From Waitlist,1
+9409,1550,4.2,,Male,White Non-Hispanic,2015,,"Regular Decision, Early Action",1
+8524,1540,,,Male,Hispanic,2017,,Early Action,1
+207909,1550,4.5,,Male,"Asian, White Non-Hispanic",2020,,Regular Decision,1
+51550,1550,4,,Male,White Non-Hispanic,2018,,Regular Decision,1
+8539,1540,4.4,,Female,Asian,2018,,Regular Decision,1
+56783,1550,4,,Female,Hispanic,2019,,Regular Decision,1
+21196,1550,4.2,35,Female,White Non-Hispanic,2018,,Early Action,1
+327587,1550,4.92,,Male,Asian,2021,No,,1
+20847,1550,4.2,,Male,White Non-Hispanic,2018,,Recruited for Sport,1
+19169,1540,4.4,,Male,Asian,2017,,Regular Decision,1
+8561,1540,4.4,,Female,White Non-Hispanic,2017,,Early Action,1
+10646,1540,3.8,,Female,White Non-Hispanic,2014,,Regular Decision,1
+8592,1540,4,,Female,Hispanic,2017,,Early Action,1
+8534,1550,4.2,,Male,White Non-Hispanic,2017,,Early Action,1
+370332,,4.5,,Female,Asian,2022,No,,1
+18493,1550,4.5,,Female,Asian,2013,,Regular Decision,1
+8533,1540,4.4,,Male,White Non-Hispanic,2017,,Regular Decision,1
+19204,1550,,,Female,Asian,2014,,,1
+21442,1550,4,,Male,White Non-Hispanic,2018,,Early Action,1
+8410,1540,4.3,,Female,Asian,2017,,Early Action,1
+315122,,4.5,36,Male,Asian,2021,No,,1
+229381,1550,4.5,,Male,Hispanic,2020,,Early Action,1
+186496,1560,4.33,,Female,Black / African American,2019,No,Early Action,1
+70175,1560,4,34,Female,Asian,2019,Yes,Early Action,1
+15312,1550,4.4,34,Male,White Non-Hispanic,2016,No,Early Action,1
+8408,1550,4.38,,Male,Asian,2017,Yes,Regular Decision,1
+373580,1550,4.45,32,Male,White Non-Hispanic,2020,No,,1
+355533,,4.82,36,Male,Asian,2022,No,,1
+236103,1550,4.5,35,Male,White Non-Hispanic,2021,No,,1
+114896,1560,4.3,,Female,Asian,2020,No,Regular Decision,1
+50628,1560,4.34,34,Female,Asian,2019,No,Early Action,1
+209063,1560,4,,Female,White Non-Hispanic,2020,No,,1
+157379,1560,4,36,Male,Asian,2020,No,,1
+59863,1560,4.45,,Other,White Non-Hispanic,2018,,Accepted From Waitlist,1
+17832,1550,4.41,36,Male,Asian,2018,,"Regular Decision, Early Decision",1
+7821,1560,4.1,,Male,"Black / African American, White Non-Hispanic",2017,,Early Action,1
+208675,1550,4.1,,Male,White Non-Hispanic,2020,Yes,Regular Decision,1
+174173,1550,3.91,,Female,White Non-Hispanic,2014,Yes,Regular Decision,1
+54128,1560,4.48,35,Male,White Non-Hispanic,2019,,Regular Decision,1
+21186,1550,3.94,34,Female,White Non-Hispanic,2017,,Early Action,1
+9255,1550,4.4,35,Male,Hispanic,2018,,Regular Decision,1
+69229,1550,4.3,35,Male,Asian,2019,,Regular Decision,1
+66886,1560,4.4,,Male,White Non-Hispanic,2019,,Early Action,1
+17199,1550,3.8,,Female,White Non-Hispanic,2016,,Accepted From Waitlist,1
+11589,1560,4.2,,Male,"Asian, Prefer Not to Share",2016,,Early Action,1
+9409,1550,4.2,,Male,White Non-Hispanic,2015,,"Regular Decision, Early Action",1
+207909,1550,4.5,,Male,"Asian, White Non-Hispanic",2020,,Regular Decision,1
+67617,1560,4.35,,Male,White Non-Hispanic,2018,,"Regular Decision, Early Action",1
+55938,1560,4,36,Female,Asian,2019,Yes,Early Action,1
+51550,1550,4,,Male,White Non-Hispanic,2018,,Regular Decision,1
+8546,1560,,,Female,White Non-Hispanic,2017,,Regular Decision,1
+56783,1550,4,,Female,Hispanic,2019,,Regular Decision,1
+21196,1550,4.2,35,Female,White Non-Hispanic,2018,,Early Action,1
+8513,1560,4.4,,Female,"Asian, White Non-Hispanic",2017,,"Early Action, Recruited for Sport",1
+327587,1550,4.92,,Male,Asian,2021,No,,1
+55746,1560,3.9,,Male,Asian,2019,,Regular Decision,1
+20847,1550,4.2,,Male,White Non-Hispanic,2018,,Recruited for Sport,1
+19080,1560,4.2,35,Male,"Asian, Black / African American",2019,,Early Action,1
+8534,1550,4.2,,Male,White Non-Hispanic,2017,,Early Action,1
+59673,1560,,,Other,White Non-Hispanic,2018,,Early Action,1
+18493,1550,4.5,,Female,Asian,2013,,Regular Decision,1
+227375,1560,3.89,,Male,Asian,2019,,Early Action,1
+19204,1550,,,Female,Asian,2014,,,1
+9100,1560,3.6,35,Male,Hispanic,</sp,,Regular Decision,1
+21442,1550,4,,Male,White Non-Hispanic,2018,,Early Action,1
+8559,1560,4.4,,Female,White Non-Hispanic,2017,,Regular Decision,1
+10675,1560,,,Male,,2015,,Regular Decision,1
+315122,,4.5,36,Male,Asian,2021,No,,1
+229169,1570,4.35,,Female,White Non-Hispanic,2021,No,,1
+186496,1560,4.33,,Female,Black / African American,2019,No,Early Action,1
+70175,1560,4,34,Female,Asian,2019,Yes,Early Action,1
+355533,,4.82,36,Male,Asian,2022,No,,1
+114896,1560,4.3,,Female,Asian,2020,No,Regular Decision,1
+50628,1560,4.34,34,Female,Asian,2019,No,Early Action,1
+8519,1570,4.2,,Male,White Non-Hispanic,2017,,Early Action,1
+488060,,4,,Male,Asian,2025,No,,1
+482241,,4,36,Male,Asian,2024,No,,1
+209063,1560,4,,Female,White Non-Hispanic,2020,No,,1
+157379,1560,4,36,Male,Asian,2020,No,,1
+59863,1560,4.45,,Other,White Non-Hispanic,2018,,Accepted From Waitlist,1
+21255,1570,,,Female,Asian,2018,,Accepted From Waitlist,1
+8571,1570,,,Male,White Non-Hispanic,2017,,Regular Decision,1
+7821,1560,4.1,,Male,"Black / African American, White Non-Hispanic",2017,,Early Action,1
+102164,1570,,,Male,Asian,</sp,,,1
+56706,1570,4.5,33,Female,White Non-Hispanic,2019,,Regular Decision,1
+54128,1560,4.48,35,Male,White Non-Hispanic,2019,,Regular Decision,1
+17817,1570,4.4,,Male,White Non-Hispanic,2015,No,Regular Decision,1
+66886,1560,4.4,,Male,White Non-Hispanic,2019,,Early Action,1
+66189,1570,4.42,,Female,Asian,2019,,Regular Decision,1
+52988,1570,4,,Female,White Non-Hispanic,2018,,"Regular Decision, Early Decision",1
+11589,1560,4.2,,Male,"Asian, Prefer Not to Share",2016,,Early Action,1
+67617,1560,4.35,,Male,White Non-Hispanic,2018,,"Regular Decision, Early Action",1
+55938,1560,4,36,Female,Asian,2019,Yes,Early Action,1
+8546,1560,,,Female,White Non-Hispanic,2017,,Regular Decision,1
+67489,1570,4.5,,Female,Asian,2019,,Early Action,1
+43405,1570,4.4,,Male,Asian,2012,,Regular Decision,1
+8513,1560,4.4,,Female,"Asian, White Non-Hispanic",2017,,"Early Action, Recruited for Sport",1
+82351,1570,4,36,Female,White Non-Hispanic,2018,,Regular Decision,1
+55746,1560,3.9,,Male,Asian,2019,,Regular Decision,1
+21199,1570,4,,Male,White Non-Hispanic,2017,,Early Action,1
+19080,1560,4.2,35,Male,"Asian, Black / African American",2019,,Early Action,1
+10671,1570,,33,Male,White Non-Hispanic,2014,,Regular Decision,1
+401525,1570,4,,Female,Hispanic,2018,No,,1
+69784,1570,4.49,,Male,"Asian, White Non-Hispanic",2019,,Early Action,1
+59673,1560,,,Other,White Non-Hispanic,2018,,Early Action,1
+55858,1570,,,Female,White Non-Hispanic,</sp,,,1
+17306,1570,4,36,Female,Asian,2016,,Regular Decision,1
+227375,1560,3.89,,Male,Asian,2019,,Early Action,1
+9100,1560,3.6,35,Male,Hispanic,</sp,,Regular Decision,1
+9053,1570,3.8,,Male,White Non-Hispanic,2014,,Regular Decision,1
+8944,1570,,,Male,White Non-Hispanic,</sp,,Regular Decision,1
+21457,1570,4.25,,Male,"Asian, Black / African American",2017,,Regular Decision,1
+8559,1560,4.4,,Female,White Non-Hispanic,2017,,Regular Decision,1
+8531,1570,,35,Male,Asian,2017,No,Early Action,1
+181249,1570,4.04,35,Female,Asian,2020,,Early Action,1
+10675,1560,,,Male,,2015,,Regular Decision,1
+229169,1570,4.35,,Female,White Non-Hispanic,2021,No,,1
+191606,1580,4.4,,Female,White Non-Hispanic,2020,,Regular Decision,1
+67352,1580,4.5,35,Female,Hispanic,2019,Yes,Early Action,1
+8519,1570,4.2,,Male,White Non-Hispanic,2017,,Early Action,1
+11436,1580,4.4,,Male,White Non-Hispanic,2016,Yes,Regular Decision,1
+488060,,4,,Male,Asian,2025,No,,1
+482241,,4,36,Male,Asian,2024,No,,1
+472719,,4,,Male,Asian,2024,No,,1
+66318,1580,3.95,,Male,White Non-Hispanic,2019,,Regular Decision,1
+53673,1580,4.5,35,Male,Asian,2018,,Early Action,1
+22194,1580,3.91,,Male,Asian,2018,No,"Regular Decision, Early Decision",1
+21255,1570,,,Female,Asian,2018,,Accepted From Waitlist,1
+8571,1570,,,Male,White Non-Hispanic,2017,,Regular Decision,1
+454099,,4,,Male,Asian,2023,No,,1
+260160,1580,4.5,35,Female,Asian,2020,No,,1
+102164,1570,,,Male,Asian,</sp,,,1
+56706,1570,4.5,33,Female,White Non-Hispanic,2019,,Regular Decision,1
+56553,1580,4.35,33,Female,Asian,2019,,Regular Decision,1
+17817,1570,4.4,,Male,White Non-Hispanic,2015,No,Regular Decision,1
+66189,1570,4.42,,Female,Asian,2019,,Regular Decision,1
+52988,1570,4,,Female,White Non-Hispanic,2018,,"Regular Decision, Early Decision",1
+51206,1580,4.5,35,Male,Asian,2019,,Regular Decision,1
+10441,1580,4.2,,Female,White Non-Hispanic,2017,,Early Decision,1
+408545,,5,,Male,Black / African American,2023,No,,1
+67489,1570,4.5,,Female,Asian,2019,,Early Action,1
+43405,1570,4.4,,Male,Asian,2012,,Regular Decision,1
+26283,1580,,,Male,White Non-Hispanic,</sp,,,1
+21370,1580,4.45,,Male,Black / African American,2018,,Regular Decision,1
+82351,1570,4,36,Female,White Non-Hispanic,2018,,Regular Decision,1
+21199,1570,4,,Male,White Non-Hispanic,2017,,Early Action,1
+12709,1580,4.5,35,Female,Asian,2018,Yes,Regular Decision,1
+8537,1580,4.4,34,Female,Asian,2017,,"Regular Decision, Early Action",1
+10671,1570,,33,Male,White Non-Hispanic,2014,,Regular Decision,1
+401525,1570,4,,Female,Hispanic,2018,No,,1
+69784,1570,4.49,,Male,"Asian, White Non-Hispanic",2019,,Early Action,1
+55858,1570,,,Female,White Non-Hispanic,</sp,,,1
+17306,1570,4,36,Female,Asian,2016,,Regular Decision,1
+8541,1580,4.4,,Female,White Non-Hispanic,2017,,Regular Decision,1
+9053,1570,3.8,,Male,White Non-Hispanic,2014,,Regular Decision,1
+8944,1570,,,Male,White Non-Hispanic,</sp,,Regular Decision,1
+21457,1570,4.25,,Male,"Asian, Black / African American",2017,,Regular Decision,1
+8531,1570,,35,Male,Asian,2017,No,Early Action,1
+181249,1570,4.04,35,Female,Asian,2020,,Early Action,1
+9037,1580,4,,Male,White Non-Hispanic,2015,,Regular Decision,1
+459999,1590,4.9,36,Female,White Non-Hispanic,2020,No,,1
+328504,1590,3.99,,Male,Asian,2017,No,,1
+191606,1580,4.4,,Female,White Non-Hispanic,2020,,Regular Decision,1
+67352,1580,4.5,35,Female,Hispanic,2019,Yes,Early Action,1
+56267,1590,4.5,,Female,Asian,2019,No,Regular Decision,1
+51934,1590,4,,Female,Asian,2019,,"Regular Decision, Early Action",1
+17220,1590,4,,Male,White Non-Hispanic,2016,,Regular Decision,1
+11436,1580,4.4,,Male,White Non-Hispanic,2016,Yes,Regular Decision,1
+472719,,4,,Male,Asian,2024,No,,1
+448197,,4.4,,Male,White Non-Hispanic,2023,No,,1
+203894,1590,4,,Female,White Non-Hispanic,2020,No,Regular Decision,1
+66910,1590,4.5,,Female,White Non-Hispanic,2020,,Early Action,1
+66318,1580,3.95,,Male,White Non-Hispanic,2019,,Regular Decision,1
+53673,1580,4.5,35,Male,Asian,2018,,Early Action,1
+22194,1580,3.91,,Male,Asian,2018,No,"Regular Decision, Early Decision",1
+454099,,4,,Male,Asian,2023,No,,1
+260160,1580,4.5,35,Female,Asian,2020,No,,1
+56553,1580,4.35,33,Female,Asian,2019,,Regular Decision,1
+51206,1580,4.5,35,Male,Asian,2019,,Regular Decision,1
+50331,1590,4.33,34,Female,White Non-Hispanic,2018,Yes,Regular Decision,1
+44809,1590,4,36,Male,White Non-Hispanic,2019,,Regular Decision,1
+21229,1590,4,36,Female,Native Hawaiian / Pacific Islander,2018,,,1
+21220,1590,4.35,,Male,Asian,2018,Yes,Regular Decision,1
+17197,1590,4.5,,Female,White Non-Hispanic,2016,,Early Action,1
+10441,1580,4.2,,Female,White Non-Hispanic,2017,,Early Decision,1
+17814,1590,4.4,,Male,Asian,2018,,Regular Decision,1
+8632,1590,4.37,35,Male,White Non-Hispanic,2017,No,Regular Decision,1
+8599,1590,,36,Female,Asian,2015,,Early Action,1
+408545,,5,,Male,Black / African American,2023,No,,1
+72793,1590,4.41,,Female,Asian,2019,,Regular Decision,1
+26283,1580,,,Male,White Non-Hispanic,</sp,,,1
+21370,1580,4.45,,Male,Black / African American,2018,,Regular Decision,1
+40837,1590,4.5,34,Female,Asian,2019,,Regular Decision,1
+22042,1590,,,Female,Asian,</sp,,,1
+12709,1580,4.5,35,Female,Asian,2018,Yes,Regular Decision,1
+8537,1580,4.4,34,Female,Asian,2017,,"Regular Decision, Early Action",1
+8541,1580,4.4,,Female,White Non-Hispanic,2017,,Regular Decision,1
+17830,1590,4.2,32,Male,White Non-Hispanic,2018,,Early Decision,1
+212940,1590,4,36,Male,Asian,2018,,Early Action,1
+9037,1580,4,,Male,White Non-Hispanic,2015,,Regular Decision,1
+459999,1590,4.9,36,Female,White Non-Hispanic,2020,No,,1
+337893,,4.4,,Male,White Non-Hispanic,2021,No,,1
+328504,1590,3.99,,Male,Asian,2017,No,,1
+87383,1600,3.95,,Male,Asian,2013,No,Regular Decision,1
+56267,1590,4.5,,Female,Asian,2019,No,Regular Decision,1
+51934,1590,4,,Female,Asian,2019,,"Regular Decision, Early Action",1
+17220,1590,4,,Male,White Non-Hispanic,2016,,Regular Decision,1
+448197,,4.4,,Male,White Non-Hispanic,2023,No,,1
+203894,1590,4,,Female,White Non-Hispanic,2020,No,Regular Decision,1
+69922,1600,4.5,36,Male,White Non-Hispanic,2012,No,Regular Decision,1
+66910,1590,4.5,,Female,White Non-Hispanic,2020,,Early Action,1
+51679,1600,4.41,,Male,Black / African American,2018,,Regular Decision,1
+386717,,4.88,,Male,Asian,2021,No,,1
+239732,1600,3.9,,Male,White Non-Hispanic,2018,No,,1
+56018,1600,4.5,,Female,,</sp,,Regular Decision,1
+50331,1590,4.33,34,Female,White Non-Hispanic,2018,Yes,Regular Decision,1
+44809,1590,4,36,Male,White Non-Hispanic,2019,,Regular Decision,1
+21229,1590,4,36,Female,Native Hawaiian / Pacific Islander,2018,,,1
+21220,1590,4.35,,Male,Asian,2018,Yes,Regular Decision,1
+17197,1590,4.5,,Female,White Non-Hispanic,2016,,Early Action,1
+124302,1600,4,36,Female,White Non-Hispanic,2019,,Early Action,1
+56251,1600,4.5,36,Male,Asian,2019,,Early Action,1
+39327,1600,4.45,,Male,Hispanic,2019,,Regular Decision,1
+17814,1590,4.4,,Male,Asian,2018,,Regular Decision,1
+8632,1590,4.37,35,Male,White Non-Hispanic,2017,No,Regular Decision,1
+8599,1590,,36,Female,Asian,2015,,Early Action,1
+72793,1590,4.41,,Female,Asian,2019,,Regular Decision,1
+45737,1600,4.5,36,Male,White Non-Hispanic,2019,,Regular Decision,1
+8573,1600,4.4,35,Male,Asian,2017,,Regular Decision,1
+338068,,4.95,,Female,Asian,2024,No,,1
+40837,1590,4.5,34,Female,Asian,2019,,Regular Decision,1
+22042,1590,,,Female,Asian,</sp,,,1
+10649,1600,4,,Female,Asian,2012,,Regular Decision,1
+72109,1600,4,35,Female,Prefer Not to Share,2021,No,,1
+28630,1600,4.22,36,Female,Asian,2018,,Regular Decision,1
+17571,1600,4,35,Male,Asian,2020,,Early Action,1
+43403,1600,4,36,,White Non-Hispanic,</sp,,Regular Decision,1
+21429,1600,4,,Female,White Non-Hispanic,2018,,Early Action,1
+320823,1600,4.5,,Male,Prefer Not to Share,2020,Yes,,1
+17830,1590,4.2,32,Male,White Non-Hispanic,2018,,Early Decision,1
+243561,,3.75,,Male,Prefer Not to Share,2021,Yes,,1
+212940,1590,4,36,Male,Asian,2018,,Early Action,1
+56172,1600,,,Female,,2019,,Early Action,1
+21898,1600,3.88,,Female,Prefer Not to Share,2017,,Regular Decision,1

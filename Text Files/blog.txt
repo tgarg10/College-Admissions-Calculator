@@ -1,0 +1,46 @@
+[2:42 PM 1/1/2022] Hellow Admission office. I hope you're doing good. I'm kind of in a rush 
+		   so let's catch up some time soon shall we? 
+		   Click here if you'd like to skip to the end.
+
+[2:03 PM 1/1/2022]: I have an idea. I only have 10 hours for it though. I wish I was joking. Online statistics aren't good enough. I need my own AI that takes parameters (SATs, Ethinicity, etc.)
+and returns the acceptance rate.
+
+Harvard Alumini is ironically for Alumini only. People unfortunately don't put their SAT scores on LinkedIn so that's out of the options. Facebook, Instagram and Tiktok - bad idea for more
+than a million reasons.
+
+Found it. Admitsee has all the data I will need: SAT scores, ACT, Ethnicity, Sports. 
+
+I will have to either iterate through every web page and write the information down on an Excel sheet or download 455 student profiles. I think I know the obvious one.
+
+[2:30 PM 1/1/2022] I'm curious
+
+[2:30 PM 1/1/2022] Did you know that Track & Field is the most popular sport at Harvard. I thought it was gonna be Rowing (Crew) honestly. 
+
+{'Badminton': 1, 'Tennis': 65, 'Track &amp; Field': 76, 'Basketball': 30, 'Squash': 3, 'Wrestling': 6, 'Cross Country': 52, 'Rugby': 4, 'Weight Lifting': 1, 'Martial Arts': 7, 
+'Sailing': 2, 'Baseball': 16, 'Football': 27, 'Bowling': 2, 'Hockey': 7, 'Rowing (Crew)': 15, 'Lacrosse': 22, 'Gymnastics': 2, 'Swimming/Diving': 47, 'Softball': 9, 'Field Hockey': 12,
+ 'Skiing': 13, 'Volleyball': 23, 'Mountain Biking/Cycling': 2, 'Soccer': 57, 'Table Tennis (Ping Pong)': 1, 'Golf': 12, 'Dance': 7, 'Fencing': 13, 'Water Polo': 5, 'Equestrian': 3, 
+'Cheer/Spirit Squad': 4}
+
+[2:32 PM 1/1/2022] Anyways back to work.
+
+[5:06 PM 1/1/2022] Polished the data more. Started work on the website as well.
+
+[5:09 PM 1/1/2022] Most of the data I have is for the Class of 2018-19. 
+
+[5:12 PM 1/1/2022] I can't find any test data for people who get denied. We'll have to use just
+		   acceptence statistics for this machine learning.
+
+[5:15 PM 1/1/2022] The average SAT score is 1536. I wonder if the diversity in the time period matters.
+			Oh also the average GPA score is 4.6 unweighted on a scale of 5. 
+			Got that one covered atleast. The average ACT score is 34. 
+
+[5:17 PM 1/1/2022] 53.4% are male and 44.3% females. Only 1.3% others. These statistics mean nothing 
+			but they're interesting I guess.
+
+[9:37 PM 1/1/2022] I got just done with the website. I need to get it live now.
+
+
+
+
+
+ 
